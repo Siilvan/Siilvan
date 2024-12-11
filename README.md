@@ -1,4 +1,8 @@
+<div align="center">
+
 <img align="center" width="400" src="cat.gif">
+</div>
+
 <h1 align="center">Hi 👋, I'm Silvan Groenveld</h1>
 <h3 align="center">A passionate backend student from the Netherlands.</h3>
 
