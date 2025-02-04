@@ -8,10 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siilvan&label=Profile%20views&color=0e75b6&style=flat" alt="siilvan" /> </p>
 
-- 🔭 I’m currently working on [AI-project](https://github.com/Siilvan/AI-project)
-
-- 🌱 I’m currently learning **to work with AI**
-
 - 📫 How to reach me **silvan.groenveld@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
